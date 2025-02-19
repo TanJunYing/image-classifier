@@ -30,4 +30,4 @@ Once you have the prerequisites, you can install the required packages by runnin
 pip install -r requirements.txt
 ```
 
-Download data file here: https://drive.google.com/file/d/1ictbAa6FnpPQksdnTqicLB2U48fippIx/view?usp=drive_link
+Download data file here: https://drive.google.com/drive/folders/1I97ey6wMAEwfYvQXjozwEXDiNQPsWZ9r?usp=drive_link
