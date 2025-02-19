@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score
 
 
 # prepare data
-input_dir = '/home/phillip/Desktop/todays_tutorial/19_parking_car_counter/code/clf-data'
+input_dir = 'C:\Users\Jun Ying\Downloads\clf-data'  #edit this based on the file location of "clf-data"
 categories = ['empty', 'not_empty']
 
 data = []
