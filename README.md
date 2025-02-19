@@ -26,6 +26,8 @@ This is an image classifier using Python, Scikit-Learn, and Scikit-Image to anal
 ## Getting Started:
 Once you have the prerequisites, you can install the required packages by running:
 
+```bash
 pip install -r requirements.txt
+```
 
 Download data file here: https://drive.google.com/file/d/1ictbAa6FnpPQksdnTqicLB2U48fippIx/view?usp=drive_link
