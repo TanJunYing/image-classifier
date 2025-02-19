@@ -22,4 +22,6 @@ Potential Applications:
 - Real-time parking monitoring
 - AI-based space utilization
 
-  Download data file here: https://drive.google.com/file/d/1ictbAa6FnpPQksdnTqicLB2U48fippIx/view?usp=drive_link
+
+Getting Started:
+- Download data file here: https://drive.google.com/file/d/1ictbAa6FnpPQksdnTqicLB2U48fippIx/view?usp=drive_link
