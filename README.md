@@ -1,7 +1,7 @@
 # image-classifier-python-scikit-learn
 ## Project Overview
 
-This is an image classifier using Python, Scikit-Learn, and Scikit-Image to analyze a large parking area and classify parking spots as empty or occupied. Using Support Vector Machines (SVM) and GridSearchCV, we train an optimized model for smart parking management.
+This is an image classifier using Python, Scikit-Learn, and Scikit-Image to analyze a large parking area and classify parking spots as empty or occupied. Using Support Vector Machines (SVM) and GridSearchCV, I trained an optimized model for smart parking management.
 
 ## What’s Inside:
 - Loading and preprocessing images with Scikit-Image
